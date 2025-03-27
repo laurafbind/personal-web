@@ -1,7 +1,7 @@
 # Personal-web
 Website mengenai portofolio dengan implementasi HTML, CSS, dan Js
 
-#Section
+# Section
 1. Navigasi: menunjukkan beberapa section pilihan
 2. Experience: berisi pengalaman dan skill yang diterapkan
 3. Education: berisi mengenai pendidikan dan skill yang dimiliki
